@@ -23,12 +23,12 @@ All the best for your Hacktoberfest Journey!
 
 ## How to start Contributing and pull request
 
-**1.**  Fork [this](https://github.com/Vanshikapandey30/HacktoberFest2024.git) repository.
+**1.**  Fork [this](https://github.com/Vanshikapandey30/HacktoberFest2025.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_name>/HactoberFest2024
+git clone --depth 1 https://github.com/<your_name>/HactoberFest2025
 ```
 
 **3.** Navigate to the project directory :file_folder: .
@@ -99,7 +99,7 @@ Contributions are welcome!
 - The pull request must contain commits you made yourself.
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-- To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
+- To get a shirt, you must make six approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 55,000 participants can earn a T-shirt.
 
 A repository/project is considered to be participating in Hacktoberfest if the 'hacktoberfest' topic is present and is accepting public contributions via pull requests. An individual pull request can also be opted-in directly by adding the 'hacktoberfest-accepted' label.
