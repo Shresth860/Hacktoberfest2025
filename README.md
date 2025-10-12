@@ -23,7 +23,7 @@ All the best for your Hacktoberfest Journey!
 
 ## How to start Contributing and pull request
 
-**1.**  Fork [this](https://github.com/Vanshikapandey30/HacktoberFest2024.git) repository.
+**1.**  Fork [this](https://github.com/Vanshikapandey30/HacktoberFest2025.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
